@@ -624,7 +624,6 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 - [clawdbot-filesystem](https://github.com/openclaw/skills/tree/main/skills/gtrusler/clawdbot-filesystem/SKILL.md) - Advanced filesystem operations - listing, searching, batch processing, and directory analysis for Clawdbot
 - [clawdbot-logs](https://github.com/openclaw/skills/tree/main/skills/satriapamudji/clawdbot-logs/SKILL.md) - Analyze Clawdbot logs and diagnostics.
 - [clawdgle](https://github.com/openclaw/skills/tree/main/skills/rubybrewsday/clawdgle/SKILL.md) - Public API usage for the Clawdgle markdown-first search engine.
-- [clawhub](https://github.com/openclaw/skills/tree/main/skills/zaycv/clawhub/SKILL.md) - Use ClawHub CLI to search, install, update, and publish agent skills from clawhub.ai with advanced caching and compre.
 - [cochesnet-cli](https://github.com/openclaw/skills/tree/main/skills/pjtf93/cochesnet-cli/SKILL.md) - Use the cochesnet CLI to search coches.net listings and fetch listing details.
 - [code-docs-search-exa](https://github.com/openclaw/skills/tree/main/skills/theishangoswami/code-docs-search-exa/SKILL.md)
 - [competitive-intelligence-market-research](https://github.com/openclaw/skills/tree/main/skills/shashwatgtm/competitive-intelligence-market-research/SKILL.md) - B2B SaaS competitive intelligence with 24 scenarios across Sales/HR/Fintech/Ops Tech
