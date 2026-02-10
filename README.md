@@ -8,7 +8,7 @@
 <br/>
 
 <div align="center">
-    <strong>Discover 2999 community-built OpenClaw skills, organized by category.
+    <strong>Discover 3000 community-built OpenClaw skills, organized by category.
     </strong>
     <br />
     <br />
@@ -19,7 +19,7 @@
   <img alt="VoltAgent" src="https://cdn.voltagent.dev/website/logo/logo-2-svg.svg" height="20" />
 </a> 
 
-![Skills Count](https://img.shields.io/badge/skills-2999-blue?style=flat-square)
+![Skills Count](https://img.shields.io/badge/skills-3000-blue?style=flat-square)
 ![Last Update](https://img.shields.io/github/last-commit/VoltAgent/awesome-clawdbot-skills?label=Last%20update&style=flat-square)
 [![Discord](https://img.shields.io/discord/1361559153780195478.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://s.voltagent.dev/discord)
 [![GitHub forks](https://img.shields.io/github/forks/VoltAgent/awesome-clawdbot-skills?style=social)](https://github.com/VoltAgent/awesome-claude-skills/network/members)
@@ -100,7 +100,7 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 | [Apple Apps & Services](#apple-apps--services) (35) | [iOS & macOS Development](#ios--macos-development) (17) | [Security & Passwords](#security--passwords) (62) |
 | [Search & Research](#search--research) (253) | [Transportation](#transportation) (73) | [Gaming](#gaming) (62) |
 | [Clawdbot Tools](#clawdbot-tools) (121) | [Personal Development](#personal-development) (56) | [Agent-to-Agent Protocols](#agent-to-agent-protocols) (19) |
-| [CLI Utilities](#cli-utilities) (131) | [Health & Fitness](#health--fitness) (55) | |
+| [CLI Utilities](#cli-utilities) (132) | [Health & Fitness](#health--fitness) (55) | |
 
 
 
@@ -237,6 +237,7 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 - [vibes](https://github.com/openclaw/skills/tree/main/skills/binora/vibes/SKILL.md) - Social presence layer for AI coding agents.
 - [video-agent](https://github.com/openclaw/skills/tree/main/skills/michaelwang11394/video-agent/SKILL.md) - Generate AI avatar videos with HeyGen's Video Agent API.
 - [video-cog](https://github.com/openclaw/skills/tree/main/skills/nitishgargiitd/video-cog/SKILL.md) - Long-form AI video production: the frontier of multi-agent
+- [vnsh](https://github.com/openclaw/skills/tree/main/skills/raullenchai/vnsh/SKILL.md) - Instant file sharing and paste service for AI agents. Auto-share long outputs as clean links instead of cluttering chat.
 - [voice-reply](https://github.com/openclaw/skills/tree/main/skills/stolot0mt0m/voice-reply/SKILL.md) - Local text-to-speech using Piper voices via sherpa-onnx.
 - [whatsapp-styling-guide](https://github.com/openclaw/skills/tree/main/skills/rubenfb23/whatsapp-styling-guide/SKILL.md) - Skill to ensure all messages sent to WhatsApp
 - [wyld-stallyns](https://github.com/openclaw/skills/tree/main/skills/brucko/wyld-stallyns/SKILL.md) - Summon legends into the booth.
